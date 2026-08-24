@@ -1,0 +1,7 @@
+node_modules/
+npm-debug.log
+.env
+
+# large data payloads - never commit
+data_mac.json
+data_win.json
