@@ -1,8 +1,8 @@
 {
   "name": "pawfriend-server2",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "serve.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node serve.js"
   }
 }
